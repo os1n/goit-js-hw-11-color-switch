@@ -30,16 +30,6 @@ body {
 .intro {
   text-align: center;
   padding: 10px;
-  /* align-items: center; */
-  /* display: flex; */
-  
-  /* width: 760px; */
-}
-
-.intro-image {
-  /* margin: auto 0px auto 30px; */
-  /* margin-bottom: 30px; */
-  /* padding-bottom: 30px; */
 }
 
 .intro h1 {
